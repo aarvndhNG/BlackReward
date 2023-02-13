@@ -7,7 +7,7 @@ using TerrariaApi.Server;
 using TShockAPI;
 using TShockAPI.Hooks;
 
-namespace voterewards 
+namespace AVote
 {
     /// <summary>
     /// The main plugin class should always be decorated with an ApiVersion attribute. The current API Version is 1.25
