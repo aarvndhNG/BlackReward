@@ -18,7 +18,7 @@ namespace AVote
         /// <summary>
         /// The name of the plugin.
         /// </summary>
-        public override string Name => "Black-Rewards";
+        public override string Name => "BlackRewards";
 
         /// <summary>
         /// The version of the plugin in its current state.
