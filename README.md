@@ -1,2 +1,2 @@
-# PluginTemplate
-A template of TShock plugin
+# BlackRewards 
+A TShock plugin 
