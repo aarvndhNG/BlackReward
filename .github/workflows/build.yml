@@ -27,4 +27,4 @@ jobs:
         with:
           name: Plugin
           path: |
-            ./src/bin/Debug/net6.0/
+            ./src/PluginTemplate/bin/Debug/net6.0/
