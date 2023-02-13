@@ -7,7 +7,7 @@ using TerrariaApi.Server;
 using TShockAPI;
 using TShockAPI.Hooks;
 
-namespace Black-Rewards 
+namespace BlackRewards 
 {
     /// <summary>
     /// The main plugin class should always be decorated with an ApiVersion attribute. The current API Version is 1.25
