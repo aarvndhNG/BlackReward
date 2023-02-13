@@ -28,7 +28,7 @@ namespace AVote
         /// <summary>
         /// The author(s) of the plugin.
         /// </summary>
-        public override string Author => "Blackwolf";
+        public override string Author => "Blackwolf, Average";
 
         /// <summary>
         /// A short, one-line, description of the plugin's purpose.
